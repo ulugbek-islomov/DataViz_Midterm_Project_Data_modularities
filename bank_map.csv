@@ -1,0 +1,277 @@
+cik,bank_name,biz_state,biz_location,assets,first_year,last_year,ever_mentions_ai,assets_bn,city,lat,lon,filing_year,size_class,mentions_ai,mentions_genai,mentions_agentic,ai_level
+19617,JPMORGAN CHASE & CO,NY,"New York, NY",4424900000000.0,2019,2026,True,4424.9,New York,40.753270220362,-73.9818438580175,2026,Large (> $100 bn),True,True,False,Generative AI
+70858,BANK OF AMERICA CORP /DE/,NC,"Charlotte, NC",3411738000000.0,2019,2026,True,3411.7,Charlotte,35.215013,-80.84131304213835,2026,Large (> $100 bn),True,False,True,Agentic AI
+831001,CITIGROUP INC,NY,"New York, NY",2657202000000.0,2019,2026,True,2657.2,New York,40.753270220362,-73.9818438580175,2026,Large (> $100 bn),True,True,True,Agentic AI
+72971,WELLS FARGO & COMPANY/MN,CA,"San Francisco, CA",2148631000000.0,2019,2026,True,2148.6,San Francisco,37.7922350027615,-122.402031995474,2026,Large (> $100 bn),True,False,False,AI (any)
+36104,US BANCORP \DE\,MN,"Minneapolis, MN",692345000000.0,2019,2026,True,692.3,Minneapolis,44.975964000000005,-93.269639013024,2026,Large (> $100 bn),True,True,False,Generative AI
+927628,CAPITAL ONE FINANCIAL CORP,VA,"Mclean, VA",669009000000.0,2019,2026,True,669.0,Mclean,38.926629000000005,-77.2125688246912,2026,Large (> $100 bn),True,True,True,Agentic AI
+713676,"PNC FINANCIAL SERVICES GROUP, INC.",PA,"Pittsburgh, PA",573572000000.0,2019,2026,True,573.6,Pittsburgh,40.442155,-79.995911018921,2026,Large (> $100 bn),True,True,False,Generative AI
+92230,TRUIST FINANCIAL CORP,NC,"Charlotte, NC",547538000000.0,2019,2026,True,547.5,Charlotte,35.215013,-80.84131304213835,2026,Large (> $100 bn),True,True,False,Generative AI
+1390777,Bank of New York Mellon Corp,NY,"New York, NY",472300000000.0,2019,2026,True,472.3,New York,40.753270220362,-73.9818438580175,2026,Large (> $100 bn),True,True,False,Generative AI
+93751,STATE STREET CORP,MA,"Boston, MA",366047000000.0,2019,2026,True,366.0,Boston,42.3556945,-71.0582213463185,2026,Large (> $100 bn),True,True,True,Agentic AI
+798941,FIRST CITIZENS BANCSHARES INC /DE/,NC,"Raleigh, NC",229698000000.0,2019,2026,True,229.7,Raleigh,35.826782,-78.6393064566269,2026,Large (> $100 bn),True,True,False,Generative AI
+759944,CITIZENS FINANCIAL GROUP INC/RI,RI,"Providence, RI",226351000000.0,2019,2026,True,226.4,Providence,41.8244400427278,-71.4106834514793,2026,Large (> $100 bn),True,True,False,Generative AI
+49196,HUNTINGTON BANCSHARES INC /MD/,OH,"Columbus, OH",225106000000.0,2019,2026,True,225.1,Columbus,39.96352,-82.999551,2026,Large (> $100 bn),True,False,False,AI (any)
+35527,FIFTH THIRD BANCORP,OH,"Cincinnati, OH",214376000000.0,2019,2026,True,214.4,Cincinnati,39.131069,-84.512192,2026,Large (> $100 bn),True,True,False,Generative AI
+36270,M&T BANK CORP,NY,"Buffalo, NY",213510000000.0,2019,2026,True,213.5,Buffalo,42.886371,-78.874117582512,2026,Large (> $100 bn),True,True,False,Generative AI
+40729,Ally Financial Inc.,MI,"Detroit, MI",196002000000.0,2019,2026,True,196.0,Detroit,42.330715,-83.047382,2026,Large (> $100 bn),True,True,True,Agentic AI
+91576,KEYCORP /NEW/,OH,"Cleveland, OH",184381000000.0,2019,2026,True,184.4,Cleveland,41.500537,-81.686737,2026,Large (> $100 bn),True,True,False,Generative AI
+73124,NORTHERN TRUST CORP,IL,"Chicago, IL",177132700000.0,2019,2026,True,177.1,Chicago,41.8848399999999,-87.667671,2026,Large (> $100 bn),True,True,False,Generative AI
+83246,HSBC USA INC /MD/,NY,"New York, NY",172410000000.0,2019,2026,True,172.4,New York,40.753270220362,-73.9818438580175,2026,Large (> $100 bn),True,False,False,AI (any)
+811830,"Santander Holdings USA, Inc.",MA,"Boston, MA",164572121000.0,2019,2026,True,164.6,Boston,42.3556945,-71.0582213463185,2026,Large (> $100 bn),True,True,False,Generative AI
+1281761,REGIONS FINANCIAL CORP,AL,"Birmingham, AL",158814000000.0,2019,2026,True,158.8,Birmingham,33.512809,-86.80514,2026,Large (> $100 bn),True,True,False,Generative AI
+1212545,WESTERN ALLIANCE BANCORPORATION,AZ,"Phoenix, AZ",92774000000.0,2019,2026,True,92.8,Phoenix,33.491729,-112.065493339703,2026,Regional ($10–100 bn),True,False,True,Agentic AI
+109380,"ZIONS BANCORPORATION, NATIONAL ASSOCIATION /UT/",UT,"Salt Lake City, UT",88690000000.0,2019,2026,True,88.7,Salt Lake City,40.762737,-111.88879651877,2026,Regional ($10–100 bn),True,True,False,Generative AI
+801337,WEBSTER FINANCIAL CORP,CT,"Stamford, CT",84073663000.0,2019,2026,True,84.1,Stamford,41.05748,-73.538406,2026,Regional ($10–100 bn),True,True,False,Generative AI
+36966,FIRST HORIZON CORP,TN,"Memphis, TN",83876000000.0,2019,2026,True,83.9,Memphis,35.107092,-89.882319,2026,Regional ($10–100 bn),True,False,False,AI (any)
+1069157,EAST WEST BANCORP INC,CA,"Pasadena, CA",80434997000.0,2019,2026,True,80.4,Pasadena,34.148767,-118.132456,2026,Regional ($10–100 bn),True,False,False,AI (any)
+28412,COMERICA INC /NEW/,TX,"Dallas, TX",79297000000.0,2019,2025,True,79.3,Dallas,32.860991,-96.80375,2025,Regional ($10–100 bn),True,False,False,AI (any)
+101382,UMB FINANCIAL CORP,MO,"Kansas City, MO",73094090000.0,2019,2026,True,73.1,Kansas City,39.100729,-94.583244,2026,Regional ($10–100 bn),True,False,False,AI (any)
+707179,OLD NATIONAL BANCORP /IN/,IN,"Evansville, IN",72151967000.0,2019,2026,True,72.2,Evansville,37.971839,-87.57159150000001,2026,Regional ($10–100 bn),True,True,False,Generative AI
+1015328,WINTRUST FINANCIAL CORP,IL,"Rosemont, IL",71142046000.0,2019,2026,True,71.1,Rosemont,41.989035,-87.8641399870925,2026,Regional ($10–100 bn),True,True,False,Generative AI
+764038,SouthState Bank Corp,FL,"Winter Haven, FL",67197412000.0,2019,2026,True,67.2,Winter Haven,28.020941,-81.728874,2026,Regional ($10–100 bn),True,True,False,Generative AI
+887343,"COLUMBIA BANKING SYSTEM, INC.",WA,"Tacoma, WA",66832000000.0,2019,2026,True,66.8,Tacoma,47.25228449050875,-122.43881350000001,2026,Regional ($10–100 bn),True,True,False,Generative AI
+714310,VALLEY NATIONAL BANCORP,NY,"New York, NY",64132725000.0,2019,2026,True,64.1,New York,40.753270220362,-73.9818438580175,2026,Regional ($10–100 bn),True,True,True,Agentic AI
+18349,SYNOVUS FINANCIAL CORP,GA,"Columbus, GA",60233644000.0,2019,2025,True,60.2,Columbus,32.4704945,-84.9906925,2025,Regional ($10–100 bn),True,True,False,Generative AI
+2082866,"Pinnacle Financial Partners, Inc.",GA,"Atlanta, GA",57706000000.0,2026,2026,True,57.7,Atlanta,33.844038499999996,-84.3873444986597,2026,Regional ($10–100 bn),True,True,False,Generative AI
+39263,"CULLEN/FROST BANKERS, INC.",TX,"San Antonio, TX",53041424000.0,2019,2026,True,53.0,San Antonio,29.504783500000002,-98.4929415365335,2026,Regional ($10–100 bn),True,False,False,AI (any)
+1115055,PINNACLE FINANCIAL PARTNERS INC,TN,"Nashville, TN",52589449000.0,2019,2025,True,52.6,Nashville,36.16273,-86.779845,2025,Regional ($10–100 bn),True,True,False,Generative AI
+875357,BOK FINANCIAL CORP,OK,"Tulsa, OK",52237501000.0,2019,2026,True,52.2,Tulsa,36.1051,-95.94474826060825,2026,Regional ($10–100 bn),True,True,False,Generative AI
+37808,FNB CORP/PA/,PA,"Pittsburgh, PA",50229000000.0,2019,2026,True,50.2,Pittsburgh,40.442155,-79.995911018921,2026,Regional ($10–100 bn),True,True,False,Generative AI
+7789,ASSOCIATED BANC-CORP,WI,"Green Bay, WI",45202596000.0,2019,2026,True,45.2,Green Bay,44.512547,-88.015639,2026,Regional ($10–100 bn),True,True,False,Generative AI
+1068851,PROSPERITY BANCSHARES INC,TX,"Houston, TX",38463425000.0,2019,2026,True,38.5,Houston,29.75067649454335,-95.440789,2026,Regional ($10–100 bn),True,False,False,AI (any)
+883948,Atlantic Union Bankshares Corp,VA,"Glen Allen, VA",37585754000.0,2019,2026,True,37.6,Glen Allen,37.6592399999999,-77.574151,2026,Regional ($10–100 bn),True,True,True,Agentic AI
+750577,HANCOCK WHITNEY CORP,MS,"Gulfport, MS",35472762000.0,2019,2026,True,35.5,Gulfport,30.368384499999998,-89.091768874848,2026,Regional ($10–100 bn),True,True,False,Generative AI
+1169770,"BANC OF CALIFORNIA, INC.",CA,"Santa Ana, CA",34797442000.0,2019,2026,True,34.8,Santa Ana,33.702013,-117.867162,2026,Regional ($10–100 bn),True,True,False,Generative AI
+729986,UNITED BANKSHARES INC/WV,WV,"Charleston, WV",33660281000.0,2019,2026,True,33.7,Charleston,38.35086461,-81.6315,2026,Regional ($10–100 bn),True,False,False,AI (any)
+22356,COMMERCE BANCSHARES INC /MO/,MO,"Kansas City, MO",32915089000.0,2019,2026,True,32.9,Kansas City,39.100729,-94.583244,2026,Regional ($10–100 bn),True,False,False,AI (any)
+700564,FULTON FINANCIAL CORP,PA,"Lancaster, PA",32118400000.0,2019,2026,True,32.1,Lancaster,40.039807,-76.306031,2026,Regional ($10–100 bn),True,False,False,AI (any)
+868671,"GLACIER BANCORP, INC.",MT,"Kalispell, MT",31978063000.0,2019,2026,True,32.0,Kalispell,48.2006529986381,-114.313810036664,2026,Regional ($10–100 bn),True,False,False,AI (any)
+1077428,TEXAS CAPITAL BANCSHARES INC/TX,TX,"Dallas, TX",31540274000.0,2019,2026,True,31.5,Dallas,32.860991,-96.80375,2026,Regional ($10–100 bn),True,True,False,Generative AI
+857855,UNITED COMMUNITY BANKS INC,SC,"Greenville, SC",28002554000.0,2019,2026,True,28.0,Greenville,34.84949,-82.394143,2026,Regional ($10–100 bn),True,False,False,AI (any)
+936528,WAFD INC,WA,"Seattle, WA",27684454000.0,2019,2025,True,27.7,Seattle,47.609985,-122.334795,2025,Regional ($10–100 bn),True,False,True,Agentic AI
+203596,WESBANCO INC,WV,"Wheeling, WV",27696333000.0,2019,2026,True,27.7,Wheeling,40.067224,-80.722622,2026,Regional ($10–100 bn),True,False,False,AI (any)
+351569,Ameris Bancorp,GA,"Atlanta, GA",27515879000.0,2019,2026,True,27.5,Atlanta,33.844038499999996,-84.3873444986597,2026,Regional ($10–100 bn),True,True,False,Generative AI
+715072,RENASANT CORP,MS,"Tupelo, MS",26751426000.0,2019,2026,True,26.8,Tupelo,34.257357,-88.705863,2026,Regional ($10–100 bn),True,True,True,Agentic AI
+860413,FIRST INTERSTATE BANCSYSTEM INC,MT,"Billings, MT",26640600000.0,2019,2026,True,26.6,Billings,45.782448,-108.5082395,2026,Regional ($10–100 bn),True,True,False,Generative AI
+776901,INDEPENDENT BANK CORP,MA,"Rockland, MA",24912896000.0,2019,2026,True,24.9,Rockland,42.1299529058315,-70.91590009881,2026,Regional ($10–100 bn),True,True,False,Generative AI
+90498,SIMMONS FIRST NATIONAL CORP,AR,"Pine Bluff, AR",24540877000.0,2019,2026,True,24.5,Pine Bluff,34.2248205,-92.0034344322425,2026,Regional ($10–100 bn),True,True,True,Agentic AI
+861842,CATHAY GENERAL BANCORP,CA,"Los Angeles, CA",24229575000.0,2019,2026,False,24.2,Los Angeles,34.0526555,-118.3019378981365,2026,Regional ($10–100 bn),False,False,False,No AI mention
+46195,BANK OF HAWAII CORP,HI,"Honolulu, HI",24176364000.0,2019,2026,True,24.2,Honolulu,21.3077499933111,-157.861177012217,2026,Regional ($10–100 bn),True,True,False,Generative AI
+36377,"FIRST HAWAIIAN, INC.",HI,"Honolulu, HI",23955252000.0,2019,2026,True,24.0,Honolulu,21.3077499933111,-157.861177012217,2026,Regional ($10–100 bn),True,True,False,Generative AI
+1331520,HOME BANCSHARES INC,AR,"Conway, AR",22881879000.0,2019,2026,True,22.9,Conway,35.091923,-92.44111333215426,2026,Regional ($10–100 bn),True,True,False,Generative AI
+1518715,Mechanics Bancorp,CA,"Walnut Creek, CA",22351475000.0,2019,2026,True,22.4,Walnut Creek,37.9064563000139,-122.0594123836035,2026,Regional ($10–100 bn),True,True,False,Generative AI
+828944,WSFS FINANCIAL CORP,DE,"Wilmington, DE",21314076000.0,2019,2026,True,21.3,Wilmington,39.746099,-75.549264,2026,Regional ($10–100 bn),True,True,False,Generative AI
+708955,FIRST FINANCIAL BANCORP /OH/,OH,"Cincinnati, OH",21129379000.0,2019,2026,True,21.1,Cincinnati,39.131069,-84.512192,2026,Regional ($10–100 bn),True,True,True,Agentic AI
+2065601,"Central Bancompany, Inc.",MO,"Jefferson City, MO",20751978000.0,2026,2026,True,20.8,Jefferson City,38.57603057113395,-92.1825674876948,2026,Regional ($10–100 bn),True,False,False,AI (any)
+730708,SEACOAST BANKING CORP OF FLORIDA,FL,"Stuart, FL",20842331000.0,2019,2026,True,20.8,Stuart,27.1929955,-80.2525315,2026,Regional ($10–100 bn),True,False,False,AI (any)
+1629019,Merchants Bancorp,IN,"Carmel, IN",19448943000.0,2019,2026,True,19.4,Carmel,39.9686039568885,-86.130897083098,2026,Regional ($10–100 bn),True,True,False,Generative AI
+712534,FIRST MERCHANTS CORP,IN,"Muncie, IN",19025101000.0,2019,2026,True,19.0,Muncie,40.192851728148,-85.386397,2026,Regional ($10–100 bn),True,True,False,Generative AI
+36146,TRUSTMARK CORP,MS,"Jackson, MS",18925211000.0,2019,2026,True,18.9,Jackson,32.299809,-90.183781,2026,Regional ($10–100 bn),True,False,False,AI (any)
+1128361,HOPE BANCORP INC,CA,"Los Angeles, CA",18531626000.0,2019,2026,True,18.5,Los Angeles,34.0526555,-118.3019378981365,2026,Regional ($10–100 bn),True,True,False,Generative AI
+314489,FIRST BUSEY CORP /NV/,KS,"Leawood, KS",18104736000.0,2019,2026,True,18.1,Leawood,38.923085,-94.631087041754,2026,Regional ($10–100 bn),True,True,False,Generative AI
+1028918,PACIFIC PREMIER BANCORP INC,CA,"Irvine, CA",17903585000.0,2019,2025,True,17.9,Irvine,33.67881029975905,-117.8485504772175,2025,Regional ($10–100 bn),True,True,False,Generative AI
+1430723,"ServisFirst Bancshares, Inc.",AL,"Birmingham, AL",17727190000.0,2019,2026,True,17.7,Birmingham,33.512809,-86.80514,2026,Regional ($10–100 bn),True,False,False,AI (any)
+723188,"COMMUNITY FINANCIAL SYSTEM, INC.",NY,"Syracuse, NY",17303296000.0,2019,2026,True,17.3,Syracuse,43.048961,-76.1507665,2026,Regional ($10–100 bn),True,True,False,Generative AI
+1025835,ENTERPRISE FINANCIAL SERVICES CORP,MO,"Clayton, MO",17300884000.0,2019,2026,True,17.3,Clayton,38.651223,-90.33963250445521,2026,Regional ($10–100 bn),True,False,False,AI (any)
+1471265,"Northwest Bancshares, Inc.",PA,"Warren, PA",16766617000.0,2019,2026,True,16.8,Warren,41.844914,-79.147414,2026,Regional ($10–100 bn),True,False,False,AI (any)
+315709,INTERNATIONAL BANCSHARES CORP,TX,"Laredo, TX",16576335000.0,2019,2026,True,16.6,Laredo,27.526676499989,-99.5035607305723,2026,Regional ($10–100 bn),True,True,False,Generative AI
+946673,BANNER CORP,WA,"Walla Walla, WA",16354488000.0,2019,2026,True,16.4,Walla Walla,46.066587903516,-118.339136,2026,Regional ($10–100 bn),True,False,True,Agentic AI
+1649749,FB Financial Corp,TN,"Nashville, TN",16300292000.0,2019,2026,True,16.3,Nashville,36.16273,-86.779845,2026,Regional ($10–100 bn),True,True,False,Generative AI
+790359,NBT BANCORP INC,NY,"Norwich, NY",15995121000.0,2019,2026,True,16.0,Norwich,42.530568,-75.523945,2026,Regional ($10–100 bn),True,True,False,Generative AI
+1265131,Hilltop Holdings Inc.,TX,"Dallas, TX",15844994000.0,2019,2026,True,15.8,Dallas,32.860991,-96.80375,2026,Regional ($10–100 bn),True,True,False,Generative AI
+354647,CVB FINANCIAL CORP,CA,"Ontario, CA",15631054000.0,2019,2026,True,15.6,Ontario,34.069388475718995,-117.6136839732495,2026,Regional ($10–100 bn),True,True,False,Generative AI
+36029,FIRST FINANCIAL BANKSHARES INC,TX,"Abilene, TX",15446476000.0,2019,2026,True,15.4,Abilene,32.448418000000004,-99.7359275,2026,Regional ($10–100 bn),True,False,False,AI (any)
+846617,"Dime Community Bancshares, Inc. /NY/",NY,"Hauppauge, NY",15341631000.0,2019,2026,True,15.3,Hauppauge,40.8189264119913,-73.2000322990257,2026,Regional ($10–100 bn),True,True,False,Generative AI
+1462120,"Live Oak Bancshares, Inc.",NC,"Wilmington, NC",15134778000.0,2019,2026,True,15.1,Wilmington,34.2300447249696,-77.91367101140011,2026,Regional ($10–100 bn),True,True,False,Generative AI
+760498,BANCFIRST CORP /OK/,OK,"Oklahoma City, OK",14838893000.0,2019,2026,True,14.8,Oklahoma City,35.52194149257706,-97.543395986762,2026,Regional ($10–100 bn),True,False,False,AI (any)
+1004702,OCEANFIRST FINANCIAL CORP,NJ,"Toms River, NJ",14564317000.0,2024,2026,True,14.6,Toms River,39.965896280467,-74.1854064666172,2026,Regional ($10–100 bn),True,False,False,AI (any)
+824410,SANDY SPRING BANCORP INC,MD,"Olney, MD",14127480000.0,2019,2025,False,14.1,Olney,39.1486320128425,-77.0658059590803,2025,Regional ($10–100 bn),False,False,False,No AI mention
+712771,"ConnectOne Bancorp, Inc.",NJ,"Englewood Cliffs, NJ",14002700000.0,2019,2026,True,14.0,Englewood Cliffs,40.87711,-73.9519146544807,2026,Regional ($10–100 bn),True,True,False,Generative AI
+1501570,"Veritex Holdings, Inc.",TX,"Dallas, TX",12768341000.0,2019,2025,True,12.8,Dallas,32.860991,-96.80375,2025,Regional ($10–100 bn),True,False,False,AI (any)
+811589,FIRST BANCORP /NC/,NC,"Southern Pines, NC",12668339000.0,2019,2026,False,12.7,Southern Pines,35.1725080167747,-79.393424,2026,Regional ($10–100 bn),False,False,False,No AI mention
+712537,FIRST COMMONWEALTH FINANCIAL CORP /PA/,PA,"Indiana, PA",12343036000.0,2019,2026,True,12.3,Indiana,40.622752998685,-79.1537480145475,2026,Regional ($10–100 bn),True,False,False,AI (any)
+1413837,First Foundation Inc.,TX,"Irving, TX",11904077000.0,2019,2026,False,11.9,Irving,32.86469700000001,-96.9565095,2026,Regional ($10–100 bn),False,False,False,No AI mention
+1473844,"Stellar Bancorp, Inc.",TX,"Houston, TX",10806594000.0,2019,2026,True,10.8,Houston,29.75067649454335,-95.440789,2026,Regional ($10–100 bn),True,True,False,Generative AI
+1050441,EAGLE BANCORP INC,MD,"Bethesda, MD",10497203000.0,2019,2026,True,10.5,Bethesda,38.9854565192975,-77.0955246618775,2026,Regional ($10–100 bn),True,False,False,AI (any)
+1475841,National Bank Holdings Corp,CO,"Greenwood Village, CO",9883518000.0,2019,2026,True,9.9,Greenwood Village,39.615761833417,-104.897075,2026,Community (< $10 bn),True,False,False,AI (any)
+719220,S&T BANCORP INC,PA,"Indiana, PA",9870980000.0,2019,2026,True,9.9,Indiana,40.622752998685,-79.1537480145475,2026,Community (< $10 bn),True,True,False,Generative AI
+1734342,Amerant Bancorp Inc.,FL,"Coral Gables, FL",9777018000.0,2019,2026,True,9.8,Coral Gables,25.750418497667248,-80.2584895,2026,Community (< $10 bn),True,False,False,AI (any)
+356171,TRICO BANCSHARES /,CA,"Chico, CA",9822063000.0,2019,2026,True,9.8,Chico,39.7518160039517,-121.84250740942801,2026,Community (< $10 bn),True,True,True,Agentic AI
+805676,PARK NATIONAL CORP /OH/,OH,"Newark, OH",9805013000.0,2019,2026,False,9.8,Newark,40.05846950456925,-82.402855,2026,Community (< $10 bn),False,False,False,No AI mention
+1516912,"Origin Bancorp, Inc.",LA,"Ruston, LA",9724722000.0,2019,2026,True,9.7,Ruston,32.5321540044535,-92.63840851907585,2026,Community (< $10 bn),True,False,False,AI (any)
+1702750,"BYLINE BANCORP, INC.",IL,"Chicago, IL",9652676000.0,2019,2026,True,9.7,Chicago,41.8848399999999,-87.667671,2026,Community (< $10 bn),True,True,True,Agentic AI
+318300,PEOPLES BANCORP INC,OH,"Marietta, OH",9649630000.0,2019,2026,True,9.6,Marietta,39.415486,-81.4547609824011,2026,Community (< $10 bn),True,False,False,AI (any)
+835324,"Stock Yards Bancorp, Inc.",KY,"Louisville, KY",9536124000.0,2019,2026,True,9.5,Louisville,38.2532805258805,-85.7573240738765,2026,Community (< $10 bn),True,True,False,Generative AI
+906465,QCR HOLDINGS INC,IL,"Moline, IL",9498194000.0,2019,2026,True,9.5,Moline,41.4914004975291,-90.5106205,2026,Community (< $10 bn),True,True,False,Generative AI
+1295401,"Bancorp, Inc.",DE,"Wilmington, DE",9352425000.0,2019,2026,True,9.4,Wilmington,39.746099,-75.549264,2026,Community (< $10 bn),True,True,False,Generative AI
+1174850,NICOLET BANKSHARES INC,WI,"Green Bay, WI",9185107000.0,2019,2026,True,9.2,Green Bay,44.512547,-88.015639,2026,Community (< $10 bn),True,False,False,AI (any)
+34782,1ST SOURCE CORP,IN,"South Bend, IN",9055270000.0,2019,2026,True,9.1,South Bend,41.676371,-86.25189,2026,Community (< $10 bn),True,False,False,AI (any)
+1823608,Amalgamated Financial Corp.,NY,"New York, NY",8869836000.0,2021,2026,True,8.9,New York,40.753270220362,-73.9818438580175,2026,Community (< $10 bn),True,False,False,AI (any)
+923139,FLUSHING FINANCIAL CORP,NY,"Uniondale, NY",8693302000.0,2019,2026,True,8.7,Uniondale,40.718667437052,-73.583175078052,2026,Community (< $10 bn),True,False,False,AI (any)
+1005817,TOMPKINS FINANCIAL CORP,NY,"Ithaca, NY",8668268000.0,2019,2026,True,8.7,Ithaca,42.439744,-76.496928,2026,Community (< $10 bn),True,False,False,AI (any)
+946647,PREMIER FINANCIAL CORP,OH,"Defiance, OH",8581575000.0,2021,2025,False,8.6,Defiance,41.283616,-84.353376,2025,Community (< $10 bn),False,False,False,No AI mention
+705432,SOUTHSIDE BANCSHARES INC,TX,"Tyler, TX",8514590000.0,2019,2026,True,8.5,Tyler,32.3361679969058,-95.30055,2026,Community (< $10 bn),True,True,True,Agentic AI
+1709442,FIRSTSUN CAPITAL BANCORP,CO,"Denver, CO",8485162000.0,2022,2026,True,8.5,Denver,39.733823,-104.986620966805,2026,Community (< $10 bn),True,True,False,Generative AI
+736772,CNB FINANCIAL CORP/PA,PA,"Clearfield, PA",8396435000.0,2019,2026,True,8.4,Clearfield,41.0219338299235,-78.438217183096,2026,Community (< $10 bn),True,False,False,AI (any)
+714395,"GERMAN AMERICAN BANCORP, INC.",IN,"Jasper, IN",8388780000.0,2019,2026,True,8.4,Jasper,38.391432,-86.930714,2026,Community (< $10 bn),True,False,False,AI (any)
+102212,UNIVEST FINANCIAL Corp,PA,"Souderton, PA",8436897000.0,2019,2026,True,8.4,Souderton,40.3151613259795,-75.3125610970005,2026,Community (< $10 bn),True,False,False,AI (any)
+1476034,Metropolitan Bank Holding Corp.,NY,"New York, NY",8255716000.0,2019,2026,True,8.3,New York,40.753270220362,-73.9818438580175,2026,Community (< $10 bn),True,True,False,Generative AI
+1624322,"Business First Bancshares, Inc.",LA,"Baton Rouge, LA",8214740000.0,2019,2026,True,8.2,Baton Rouge,30.447404,-91.127989,2026,Community (< $10 bn),True,False,False,AI (any)
+1118004,BANCPLUS CORP,MS,"Ridgeland, MS",8078448000.0,2020,2026,True,8.1,Ridgeland,32.426432,-90.153354,2026,Community (< $10 bn),True,False,False,AI (any)
+947559,FIRST BANCSHARES INC /MS/,MS,"Hattiesburg, MS",8004778000.0,2019,2025,True,8.0,Hattiesburg,31.3248495,-89.29872,2025,Community (< $10 bn),True,True,False,Generative AI
+700565,"FIRST MID BANCSHARES, INC.",IL,"Mattoon, IL",7966658000.0,2019,2026,False,8.0,Mattoon,39.4815795,-88.36997949999994,2026,Community (< $10 bn),False,False,False,No AI mention
+1964333,Burke & Herbert Financial Services Corp.,VA,"Alexandria, VA",7920626000.0,2024,2026,True,7.9,Alexandria,38.805378,-77.047711,2026,Community (< $10 bn),True,True,True,Agentic AI
+1109242,HANMI FINANCIAL CORP,CA,"Los Angeles, CA",7869185000.0,2019,2026,True,7.9,Los Angeles,34.0526555,-118.3019378981365,2026,Community (< $10 bn),True,False,False,AI (any)
+907471,"PATHWARD FINANCIAL, INC.",SD,"Sioux Falls, SD",7603425000.0,2020,2025,True,7.6,Sioux Falls,43.545996,-96.7286697946157,2025,Community (< $10 bn),True,True,True,Agentic AI
+701347,CENTRAL PACIFIC FINANCIAL CORP,HI,"Honolulu, HI",7409241000.0,2019,2026,True,7.4,Honolulu,21.3077499933111,-157.861177012217,2026,Community (< $10 bn),True,True,False,Generative AI
+721994,LAKELAND FINANCIAL CORP,IN,"Warsaw, IN",6990022000.0,2019,2026,True,7.0,Warsaw,41.2378349999142,-85.856641,2026,Community (< $10 bn),True,False,False,AI (any)
+1336706,NORTHPOINTE BANCSHARES INC,MI,"Grand Rapids, MI",7022825000.0,2025,2026,True,7.0,Grand Rapids,42.9663705,-85.6702035,2026,Community (< $10 bn),True,True,False,Generative AI
+750686,CAMDEN NATIONAL CORP,ME,"Camden, ME",6974584000.0,2019,2026,True,7.0,Camden,44.209554029726,-69.064700356249,2026,Community (< $10 bn),True,False,False,AI (any)
+921557,REPUBLIC BANCORP INC /KY/,KY,"Louisville, KY",7042061000.0,2019,2026,True,7.0,Louisville,38.2532805258805,-85.7573240738765,2026,Community (< $10 bn),True,False,False,AI (any)
+357173,OLD SECOND BANCORP INC,IL,"Aurora, IL",6902675000.0,2019,2026,True,6.9,Aurora,41.760656,-88.318258173912,2026,Community (< $10 bn),True,True,False,Generative AI
+1042729,MERCANTILE BANK CORP,MI,"Grand Rapids, MI",6835219000.0,2019,2026,True,6.8,Grand Rapids,42.9663705,-85.6702035,2026,Community (< $10 bn),True,False,False,AI (any)
+726854,CITY HOLDING CO,WV,"Charleston, WV",6722018000.0,2019,2026,True,6.7,Charleston,38.35086461,-81.6315,2026,Community (< $10 bn),True,False,False,AI (any)
+350852,COMMUNITY TRUST BANCORP INC /KY/,KY,"Pikeville, KY",6684138000.0,2019,2026,False,6.7,Pikeville,37.480421,-82.534340908532,2026,Community (< $10 bn),False,False,False,No AI mention
+737468,WASHINGTON TRUST BANCORP INC,RI,"Westerly, RI",6621694000.0,2019,2026,True,6.6,Westerly,41.37669101014575,-71.83075701263584,2026,Community (< $10 bn),True,True,False,Generative AI
+1466026,"Midland States Bancorp, Inc.",IL,"Effingham, IL",6513420000.0,2019,2026,True,6.5,Effingham,39.127801501869996,-88.5423595010574,2026,Community (< $10 bn),True,True,False,Generative AI
+1227500,EQUITY BANCSHARES INC,KS,"Wichita, KS",6373172000.0,2019,2026,True,6.4,Wichita,37.68619050291705,-97.336749,2026,Community (< $10 bn),True,True,False,Generative AI
+1539638,"Triumph Financial, Inc.",TX,"Dallas, TX",6380588000.0,2019,2026,True,6.4,Dallas,32.860991,-96.80375,2026,Community (< $10 bn),True,False,False,AI (any)
+357301,TRUSTCO BANK CORP N Y,NY,"Albany, NY",6440700000.0,2019,2026,True,6.4,Albany,42.650097,-73.752502,2026,Community (< $10 bn),True,True,False,Generative AI
+706129,HORIZON BANCORP INC /IN/,IN,"Michigan City, IN",6436611000.0,2019,2026,True,6.4,Michigan City,41.7169160031327,-86.901846,2026,Community (< $10 bn),True,True,False,Generative AI
+1035092,SHORE BANCSHARES INC,MD,"Easton, MD",6258818000.0,2019,2026,True,6.3,Easton,38.774207997496,-76.075636984816,2026,Community (< $10 bn),True,False,False,AI (any)
+862831,FINANCIAL INSTITUTIONS INC,NY,"Warsaw, NY",6274140000.0,2019,2026,True,6.3,Warsaw,42.740974,-78.132578,2026,Community (< $10 bn),True,False,False,AI (any)
+1412665,"MidWestOne Financial Group, Inc.",IA,"Iowa City, IA",6236329000.0,2019,2025,True,6.2,Iowa City,41.658565,-91.533872,2025,Community (< $10 bn),True,True,False,Generative AI
+879635,MID PENN BANCORP INC,PA,"Harrisburg, PA",6133896000.0,2019,2026,False,6.1,Harrisburg,40.261402,-76.881146,2026,Community (< $10 bn),False,False,False,No AI mention
+311094,WESTAMERICA BANCORPORATION,CA,"San Rafael, CA",5960180000.0,2019,2026,False,6.0,San Rafael,37.973464000026,-122.528134,2026,Community (< $10 bn),False,False,False,No AI mention
+885275,WILSON BANK HOLDING CO,TN,"Lebanon, TN",5878956000.0,2019,2026,True,5.9,Lebanon,36.210076988772556,-86.30408699094531,2026,Community (< $10 bn),True,True,False,Generative AI
+1038773,SMARTFINANCIAL INC.,TN,"Knoxville, TN",5860810000.0,2019,2026,True,5.9,Knoxville,35.963759,-83.9200929999999,2026,Community (< $10 bn),True,True,False,Generative AI
+714562,FIRST FINANCIAL CORP /IN/,IN,"Terre Haute, IN",5756126000.0,2019,2026,True,5.8,Terre Haute,39.466445,-87.409534723811,2026,Community (< $10 bn),True,True,False,Generative AI
+1769617,"HarborOne Bancorp, Inc.",MA,"Brockton, MA",5753133000.0,2020,2025,True,5.8,Brockton,42.083702554034,-71.020486,2025,Community (< $10 bn),True,False,False,AI (any)
+1053352,HERITAGE COMMERCE CORP,CA,"San Jose, CA",5764697000.0,2019,2026,True,5.8,San Jose,37.3336775,-121.8953415024075,2026,Community (< $10 bn),True,False,False,AI (any)
+1085913,FARMERS & MERCHANTS BANCORP,CA,"Lodi, CA",5690110000.0,2019,2026,True,5.7,Lodi,38.1323915,-121.27451757655,2026,Community (< $10 bn),True,True,False,Generative AI
+1562463,First Internet Bancorp,IN,"Fishers, IN",5571647000.0,2019,2026,False,5.6,Fishers,39.9564419965988,-86.0159020060747,2026,Community (< $10 bn),False,False,False,No AI mention
+854560,"GREAT SOUTHERN BANCORP, INC.",MO,"Springfield, MO",5598606000.0,2019,2026,True,5.6,Springfield,37.159917,-93.277546,2026,Community (< $10 bn),True,False,False,AI (any)
+826154,ORRSTOWN FINANCIAL SERVICES INC,PA,"Harrisburg, PA",5542255000.0,2019,2026,True,5.5,Harrisburg,40.261402,-76.881146,2026,Community (< $10 bn),True,True,False,Generative AI
+39311,INDEPENDENT BANK CORP /MI/,MI,"Grand Rapids, MI",5505720000.0,2019,2026,True,5.5,Grand Rapids,42.9663705,-85.6702035,2026,Community (< $10 bn),True,False,False,AI (any)
+1341317,Bridgewater Bancshares Inc,MN,"St. Louis Park, MN",5407002000.0,2019,2026,True,5.4,St. Louis Park,44.9382890131969,-93.3424069794558,2026,Community (< $10 bn),True,True,False,Generative AI
+709337,FARMERS NATIONAL BANC CORP /OH/,OH,"Canfield, OH",5245870000.0,2019,2026,True,5.2,Canfield,41.0241292955595,-80.7610917881155,2026,Community (< $10 bn),True,False,False,AI (any)
+903419,ALERUS FINANCIAL CORP,ND,"Grand Forks, ND",5230084000.0,2020,2026,True,5.2,Grand Forks,47.904774,-97.045553,2026,Community (< $10 bn),True,True,False,Generative AI
+775215,"HBT Financial, Inc.",IL,"Bloomington, IL",5071390000.0,2020,2026,True,5.1,Bloomington,40.479693,-88.953101,2026,Community (< $10 bn),True,True,False,Generative AI
+1829576,"Carter Bankshares, Inc.",VA,"Martinsville, VA",4851922000.0,2021,2026,True,4.9,Martinsville,36.690019,-79.873694321082,2026,Community (< $10 bn),True,True,False,Generative AI
+1747068,"MetroCity Bankshares, Inc.",GA,"Doraville, GA",4768400000.0,2020,2026,True,4.8,Doraville,33.901177,-84.275832,2026,Community (< $10 bn),True,True,False,Generative AI
+1018399,ENTERPRISE BANCORP INC /MA/,MA,"Lowell, MA",4827726000.0,2019,2025,True,4.8,Lowell,42.6446829368362,-71.3087364434043,2025,Community (< $10 bn),True,True,False,Generative AI
+1437958,COASTAL FINANCIAL CORP,WA,"Everett, WA",4741437000.0,2019,2026,True,4.7,Everett,47.9799455,-122.2086005,2026,Community (< $10 bn),True,False,False,AI (any)
+743367,BAR HARBOR BANKSHARES,ME,"Bar Harbor, ME",4683891000.0,2019,2026,True,4.7,Bar Harbor,44.389313,-68.204576,2026,Community (< $10 bn),True,True,False,Generative AI
+732417,HILLS BANCORPORATION,IA,"Hills, IA",4647870000.0,2019,2026,True,4.6,Hills,41.5540446022311,-91.5350476240437,2026,Community (< $10 bn),True,False,False,AI (any)
+1163668,"SOUTH PLAINS FINANCIAL, INC.",TX,"Lubbock, TX",4480500000.0,2020,2026,False,4.5,Lubbock,33.573512003558,-101.887767,2026,Community (< $10 bn),False,False,False,No AI mention
+1746109,Bank First Corp,WI,"Manitowoc, WI",4506095000.0,2019,2026,True,4.5,Manitowoc,44.090599,-87.669203,2026,Community (< $10 bn),True,True,False,Generative AI
+803164,CHOICEONE FINANCIAL SERVICES INC,MI,"Sparta, MI",4410551000.0,2019,2026,True,4.4,Sparta,43.161133552511,-85.707452914541,2026,Community (< $10 bn),True,False,False,AI (any)
+1090009,SOUTHERN FIRST BANCSHARES INC,SC,"Greenville, SC",4403494000.0,2019,2026,True,4.4,Greenville,34.84949,-82.394143,2026,Community (< $10 bn),True,False,False,AI (any)
+726601,CAPITAL CITY BANK GROUP INC,FL,"Tallahassee, FL",4385765000.0,2019,2026,True,4.4,Tallahassee,30.4484045,-84.28041548319065,2026,Community (< $10 bn),True,False,True,Agentic AI
+717538,ARROW FINANCIAL CORP,NY,"Glens Falls, NY",4445862000.0,2019,2026,True,4.4,Glens Falls,43.3103257775255,-73.6457951194815,2026,Community (< $10 bn),True,True,False,Generative AI
+944745,"CIVISTA BANCSHARES, INC.",OH,"Sandusky, OH",4336453000.0,2019,2026,False,4.3,Sandusky,41.455393002714,-82.71147317844955,2026,Community (< $10 bn),False,False,False,No AI mention
+1499422,RBB Bancorp,CA,"Los Angeles, CA",4208294000.0,2019,2026,True,4.2,Los Angeles,34.0526555,-118.3019378981365,2026,Community (< $10 bn),True,False,False,AI (any)
+1521951,"FIRST BUSINESS FINANCIAL SERVICES, INC.",WI,"Madison, WI",4081887000.0,2019,2026,True,4.1,Madison,43.073176,-89.386475,2026,Community (< $10 bn),True,True,False,Generative AI
+1166928,WEST BANCORPORATION INC,IA,"West Des Moines, IA",4142244000.0,2019,2026,True,4.1,West Des Moines,41.5859924985962,-93.7878490393335,2026,Community (< $10 bn),True,True,False,Generative AI
+740663,FIRST OF LONG ISLAND CORP,NY,"Melville, NY",4119336000.0,2019,2025,False,4.1,Melville,40.794527,-73.411976,2025,Community (< $10 bn),False,False,False,No AI mention
+1325670,Primis Financial Corp.,VA,"Mclean, VA",4047388000.0,2019,2026,True,4.0,Mclean,38.926629000000005,-77.2125688246912,2026,Community (< $10 bn),True,True,False,Generative AI
+1795815,California BanCorp \ CA,CA,"San Diego, CA",4033386000.0,2024,2026,True,4.0,San Diego,32.771463499999996,-117.1603025,2026,Community (< $10 bn),True,True,False,Generative AI
+1403475,Bank of Marin Bancorp,CA,"Novato, CA",3904778000.0,2019,2026,True,3.9,Novato,38.108551,-122.57511,2026,Community (< $10 bn),True,False,True,Agentic AI
+1641601,River Financial Corp,AL,"Prattville, AL",3787385000.0,2019,2026,False,3.8,Prattville,32.459808,-86.471388,2026,Community (< $10 bn),False,False,False,No AI mention
+1130144,SIERRA BANCORP,CA,"Porterville, CA",3829279000.0,2019,2026,True,3.8,Porterville,36.069188,-119.016121497684,2026,Community (< $10 bn),True,False,True,Agentic AI
+711669,COLONY BANKCORP INC,GA,"Fitzgerald, GA",3735401000.0,2019,2026,True,3.7,Fitzgerald,31.712109489232,-83.254642,2026,Community (< $10 bn),True,True,False,Generative AI
+1127371,Community West Bancshares,CA,"Fresno, CA",3690317000.0,2019,2026,True,3.7,Fresno,36.808365,-119.792301,2026,Community (< $10 bn),True,True,False,Generative AI
+1419536,Capital Bancorp Inc,MD,"Rockville, MD",3606207000.0,2019,2026,True,3.6,Rockville,39.083537,-77.144682,2026,Community (< $10 bn),True,False,False,AI (any)
+1505732,"Bankwell Financial Group, Inc.",CT,"New Canaan, CT",3359859000.0,2019,2026,True,3.4,New Canaan,41.147044,-73.492121,2026,Community (< $10 bn),True,False,False,AI (any)
+1071236,RED RIVER BANCSHARES INC,LA,"Alexandria, LA",3350910000.0,2020,2026,True,3.4,Alexandria,31.30958,-92.448912,2026,Community (< $10 bn),True,True,False,Generative AI
+1423869,PCB BANCORP,CA,"Los Angeles, CA",3281771000.0,2019,2026,True,3.3,Los Angeles,34.0526555,-118.3019378981365,2026,Community (< $10 bn),True,True,False,Generative AI
+859070,FIRST COMMUNITY BANKSHARES INC /VA/,VA,"Bluefield, VA",3259643000.0,2019,2026,True,3.3,Bluefield,37.2469443801935,-81.261000840095,2026,Community (< $10 bn),True,False,False,AI (any)
+1277902,MVB FINANCIAL CORP,WV,"Fairmont, WV",3308918000.0,2019,2026,True,3.3,Fairmont,39.484502,-80.143738,2026,Community (< $10 bn),True,False,False,AI (any)
+1327607,First Western Financial Inc,CO,"Denver, CO",3154981000.0,2019,2026,True,3.2,Denver,39.733823,-104.986620966805,2026,Community (< $10 bn),True,True,False,Generative AI
+715579,ACNB CORP,PA,"Gettysburg, PA",3228126000.0,2019,2026,True,3.2,Gettysburg,39.830819923210996,-77.2312177205095,2026,Community (< $10 bn),True,True,False,Generative AI
+765207,"First Bancorp, Inc /ME/",ME,"Damariscotta, ME",3166303000.0,2019,2026,True,3.2,Damariscotta,44.0325901965613,-69.5317868256895,2026,Community (< $10 bn),True,True,False,Generative AI
+810958,CITIZENS & NORTHERN CORP,PA,"Wellsboro, PA",3132469000.0,2019,2026,True,3.1,Wellsboro,41.748178993234,-77.301603982831,2026,Community (< $10 bn),True,True,False,Generative AI
+1058867,GUARANTY BANCSHARES INC /TX/,TX,"Mount Pleasant, TX",3115554000.0,2019,2025,True,3.1,Mount Pleasant,33.159059416926,-94.96955797307655,2025,Community (< $10 bn),True,True,False,Generative AI
+739421,CITIZENS FINANCIAL SERVICES INC,PA,"Mansfield, PA",3064564000.0,2019,2026,False,3.1,Mansfield,41.806871007107,-77.077357981856,2026,Community (< $10 bn),False,False,False,No AI mention
+1756701,"LINKBANCORP, Inc.",PA,"Camp Hill, PA",3070929000.0,2022,2026,True,3.1,Camp Hill,40.239883968933,-76.9326753757431,2026,Community (< $10 bn),True,False,False,AI (any)
+920427,UNITY BANCORP INC /NJ/,NJ,"Clinton, NJ",2966652000.0,2019,2026,True,3.0,Clinton,40.6373060031968,-74.902004997666,2026,Community (< $10 bn),True,True,False,Generative AI
+1602658,Investar Holding Corp,LA,"Baton Rouge, LA",2833048000.0,2019,2026,True,2.8,Baton Rouge,30.447404,-91.127989,2026,Community (< $10 bn),True,False,False,AI (any)
+1689731,"Southern States Bancshares, Inc.",AL,"Anniston, AL",2848254000.0,2022,2025,False,2.8,Anniston,33.6566535,-85.82689450000001,2025,Community (< $10 bn),False,False,False,No AI mention
+1901637,"USCB FINANCIAL HOLDINGS, INC.",FL,"Doral, FL",2791540000.0,2022,2026,True,2.8,Doral,25.7998057142294,-80.3334666447136,2026,Community (< $10 bn),True,False,True,Agentic AI
+1722010,OP Bancorp,CA,"Los Angeles, CA",2650226000.0,2019,2026,True,2.7,Los Angeles,34.0526555,-118.3019378981365,2026,Community (< $10 bn),True,False,False,AI (any)
+763563,CHEMUNG FINANCIAL CORP,NY,"Elmira, NY",2710235000.0,2019,2026,True,2.7,Elmira,42.08850217847545,-76.8028505016855,2026,Community (< $10 bn),True,False,False,AI (any)
+1098151,FIDELITY D & D BANCORP INC,PA,"Dunmore, PA",2748058000.0,2019,2026,True,2.7,Dunmore,41.416717763719,-75.639961080458,2026,Community (< $10 bn),True,True,False,Generative AI
+1754226,"Orange County Bancorp, Inc. /DE/",NY,"Middletown, NY",2659377000.0,2022,2026,True,2.7,Middletown,41.44762974677625,-74.41914291179586,2026,Community (< $10 bn),True,True,False,Generative AI
+1587987,"NewtekOne, Inc.",FL,"Boca Raton, FL",2744819000.0,2023,2026,True,2.7,Boca Raton,26.36434,-80.091629,2026,Community (< $10 bn),True,True,False,Generative AI
+1443575,"Avidbank Holdings, Inc.",CA,"San Jose, CA",2569643000.0,2026,2026,True,2.6,San Jose,37.3336775,-121.8953415024075,2026,Community (< $10 bn),True,True,False,Generative AI
+1750735,Meridian Corp,PA,"Malvern, PA",2561995000.0,2019,2026,True,2.6,Malvern,40.054409,-75.528134,2026,Community (< $10 bn),True,False,False,AI (any)
+1730984,BayCom Corp,CA,"Walnut Creek, CA",2593677000.0,2019,2026,True,2.6,Walnut Creek,37.9064563000139,-122.0594123836035,2026,Community (< $10 bn),True,False,False,AI (any)
+1828588,"Hanover Bancorp, Inc. /MD",NY,"Mineola, NY",2383096000.0,2021,2026,True,2.4,Mineola,40.739643,-73.634951,2026,Community (< $10 bn),True,False,False,AI (any)
+842717,"BLUE RIDGE BANKSHARES, INC.",VA,"Richmond, VA",2432589000.0,2020,2026,True,2.4,Richmond,37.54077,-77.48692550000001,2026,Community (< $10 bn),True,True,False,Generative AI
+1013272,NORWOOD FINANCIAL CORP,PA,"Honesdale, PA",2424842000.0,2019,2026,False,2.4,Honesdale,41.572323,-75.2552700300027,2026,Community (< $10 bn),False,False,False,No AI mention
+1913971,"Princeton Bancorp, Inc.",PA,"Reading, PA",2285147000.0,2023,2026,True,2.3,Reading,40.336443,-75.927188,2026,Community (< $10 bn),True,False,False,AI (any)
+1710482,"John Marshall Bancorp, Inc.",VA,"Reston, VA",2332550000.0,2023,2026,True,2.3,Reston,38.9514498426094,-77.345798,2026,Community (< $10 bn),True,True,False,Generative AI
+1675644,"FVCBankcorp, Inc.",VA,"Fairfax, VA",2292256000.0,2019,2026,True,2.3,Fairfax,38.855497328963,-77.3105779836469,2026,Community (< $10 bn),True,True,False,Generative AI
+1437479,ENB Financial Corp,PA,"Ephrata, PA",2257727000.0,2019,2026,True,2.3,Ephrata,40.177970291198,-76.176992802032,2026,Community (< $10 bn),True,True,False,Generative AI
+1297107,"CoastalSouth Bancshares, Inc.",GA,"Atlanta, GA",2306586000.0,2026,2026,True,2.3,Atlanta,33.844038499999996,-84.3873444986597,2026,Community (< $10 bn),True,False,False,AI (any)
+1981546,"Commercial Bancgroup, Inc.",TN,"Harrogate, TN",2291454981.0,2026,2026,True,2.3,Harrogate,36.573571002378,-83.653329994368,2026,Community (< $10 bn),True,True,False,Generative AI
+1693577,"MainStreet Bancshares, Inc.",VA,"Fairfax, VA",2212669000.0,2020,2026,True,2.2,Fairfax,38.855497328963,-77.3105779836469,2026,Community (< $10 bn),True,True,False,Generative AI
+842517,ISABELLA BANK CORP,MI,"Mt Pleasant, MI",2209448000.0,2019,2026,True,2.2,Mt Pleasant,43.604389,-84.776521,2026,Community (< $10 bn),True,False,False,AI (any)
+723646,FRANKLIN FINANCIAL SERVICES CORP /PA/,PA,"Chambersburg, PA",2239018000.0,2019,2026,True,2.2,Chambersburg,39.9369059974109,-77.661289,2026,Community (< $10 bn),True,True,False,Generative AI
+842518,EVANS BANCORP INC,NY,"Hamburg, NY",2187465000.0,2019,2025,False,2.2,Hamburg,42.715872,-78.83118,2025,Community (< $10 bn),False,False,False,No AI mention
+1074902,LCNB CORP,OH,"Lebanon, OH",2240769000.0,2019,2026,True,2.2,Lebanon,39.4330705762292,-84.19830139724066,2026,Community (< $10 bn),True,False,False,AI (any)
+1132651,AMES NATIONAL CORP,IA,"Ames, IA",2133540000.0,2019,2026,True,2.1,Ames,42.025168,-93.615579,2026,Community (< $10 bn),True,True,False,Generative AI
+1070680,CF BANKSHARES INC.,OH,"Columbus, OH",2117321000.0,2020,2026,False,2.1,Columbus,39.96352,-82.999551,2026,Community (< $10 bn),False,False,False,No AI mention
+1478454,"Eagle Bancorp Montana, Inc.",MT,"Helena, MT",2106367000.0,2019,2026,True,2.1,Helena,46.591504456751,-112.020934,2026,Community (< $10 bn),True,True,False,Generative AI
+932781,FIRST COMMUNITY CORP /SC/,SC,"Lexington, SC",2057732000.0,2019,2026,True,2.1,Lexington,33.9930193798145,-81.2299376650825,2026,Community (< $10 bn),True,False,False,AI (any)
+763907,FIRST UNITED CORP/MD/,MD,"Oakland, MD",2087453000.0,2019,2026,True,2.1,Oakland,39.41021483778685,-79.4074511330703,2026,Community (< $10 bn),True,False,False,AI (any)
+719402,FIRST NATIONAL CORP /VA/,VA,"Strasburg, VA",2037978000.0,2019,2026,True,2.0,Strasburg,38.989507993213,-78.362053035927,2026,Community (< $10 bn),True,False,False,AI (any)
+1431567,Oak Valley Bancorp,CA,"Oakdale, CA",2023116000.0,2019,2026,True,2.0,Oakdale,37.7668339934977,-120.847706990711,2026,Community (< $10 bn),True,False,False,AI (any)
+1746129,Bank7 Corp.,OK,"Oklahoma City, OK",1963640000.0,2019,2026,False,2.0,Oklahoma City,35.52194149257706,-97.543395986762,2026,Community (< $10 bn),False,False,False,No AI mention
+750558,QNB CORP.,PA,"Quakertown, PA",1906005000.0,2019,2026,False,1.9,Quakertown,40.441749496591,-75.336733830784,2026,Community (< $10 bn),False,False,False,No AI mention
+880641,EAGLE FINANCIAL SERVICES INC,VA,"Berryville, VA",1888626000.0,2019,2026,True,1.9,Berryville,39.1511819973361,-77.9810220273123,2026,Community (< $10 bn),True,False,False,AI (any)
+893847,"HAWTHORN BANCSHARES, INC.",MO,"Jefferson City, MO",1894850000.0,2019,2026,True,1.9,Jefferson City,38.57603057113395,-92.1825674876948,2026,Community (< $10 bn),True,True,False,Generative AI
+1449794,"Embassy Bancorp, Inc.",PA,"Bethlehem, PA",1800579000.0,2019,2026,False,1.8,Bethlehem,40.641667564658505,-75.3846780048726,2026,Community (< $10 bn),False,False,False,No AI mention
+796534,NATIONAL BANKSHARES INC,VA,"Blacksburg, VA",1824506000.0,2019,2026,True,1.8,Blacksburg,37.229474,-80.413961038186,2026,Community (< $10 bn),True,True,False,Generative AI
+1392272,CHAIN BRIDGE BANCORP INC,VA,"Mclean, VA",1750399000.0,2025,2026,True,1.8,Mclean,38.926629000000005,-77.2125688246912,2026,Community (< $10 bn),True,True,False,Generative AI
+1093672,PEOPLES BANCORP OF NORTH CAROLINA INC,NC,"Newton, NC",1702148000.0,2019,2026,True,1.7,Newton,35.661838024388246,-81.22591617936556,2026,Community (< $10 bn),True,True,False,Generative AI
+731122,MUNCY COLUMBIA FINANCIAL Corp,PA,"Bloomsburg, PA",1673199000.0,2024,2026,True,1.7,Bloomsburg,41.01450690415,-76.441004180095,2026,Community (< $10 bn),True,False,False,AI (any)
+706863,UNION BANKSHARES INC,VT,"Morrisville, VT",1617191000.0,2019,2026,True,1.6,Morrisville,44.5609675907586,-72.5877902040761,2026,Community (< $10 bn),True,False,False,AI (any)
+1572334,Virginia National Bankshares Corp,VA,"Charlottesville, VA",1649742000.0,2019,2026,True,1.6,Charlottesville,38.031257423707004,-78.481286,2026,Community (< $10 bn),True,True,False,Generative AI
+1141688,LANDMARK BANCORP INC,KS,"Manhattan, KS",1606642000.0,2019,2026,True,1.6,Manhattan,39.179927,-96.5675075,2026,Community (< $10 bn),True,True,False,Generative AI
+818677,SECURITY FEDERAL CORP,SC,"Aiken, SC",1618084000.0,2019,2026,False,1.6,Aiken,33.5604575,-81.7216114795595,2026,Community (< $10 bn),False,False,False,No AI mention
+894671,OHIO VALLEY BANC CORP,OH,"Gallipolis, OH",1582654000.0,2019,2026,False,1.6,Gallipolis,38.806107,-82.206791,2026,Community (< $10 bn),False,False,False,No AI mention
+1725262,"Tri-County Financial Group, Inc.",IL,"Mendota, IL",1595721000.0,2026,2026,True,1.6,Mendota,41.5481273192558,-89.119887,2026,Community (< $10 bn),True,True,False,Generative AI
+740971,OLD POINT FINANCIAL CORP,VA,"Hampton, VA",1450570000.0,2019,2025,True,1.5,Hampton,37.026182500000004,-76.34967499999999,2025,Community (< $10 bn),True,True,False,Generative AI
+737875,FIRST KEYSTONE CORP,PA,"Berwick, PA",1530977000.0,2019,2026,True,1.5,Berwick,41.0547560039231,-76.2343140394587,2026,Community (< $10 bn),True,True,False,Generative AI
+767405,"SB FINANCIAL GROUP, INC.",OH,"Defiance, OH",1545367000.0,2019,2026,True,1.5,Defiance,41.283616,-84.353376,2026,Community (< $10 bn),True,False,False,AI (any)
+1767837,"Richmond Mutual Bancorporation, Inc.",IN,"Richmond, IN",1525790540.0,2020,2026,True,1.5,Richmond,39.827573085123,-84.895072069436,2026,Community (< $10 bn),True,False,False,AI (any)
+1605301,"CB Financial Services, Inc.",PA,"Carmichaels, PA",1547693000.0,2019,2026,False,1.5,Carmichaels,39.89572918969,-79.973481968033,2026,Community (< $10 bn),False,False,False,No AI mention
+707605,AMERISERV FINANCIAL INC /PA/,PA,"Johnstown, PA",1453813000.0,2019,2026,True,1.5,Johnstown,40.324808492235505,-78.91840350000001,2026,Community (< $10 bn),True,True,True,Agentic AI
+1791145,GBank Financial Holdings Inc.,NV,"Las Vegas, NV",1359491000.0,2026,2026,True,1.4,Las Vegas,36.135924,-115.21663050000001,2026,Community (< $10 bn),True,True,False,Generative AI
+740806,F&M BANK CORP,VA,"Timberville, VA",1372936000.0,2019,2026,False,1.4,Timberville,38.6317630012668,-78.7741349724932,2026,Community (< $10 bn),False,False,False,No AI mention
+1609065,"Pathfinder Bancorp, Inc.",NY,"Oswego, NY",1426636000.0,2019,2026,False,1.4,Oswego,43.455905,-76.510883,2026,Community (< $10 bn),False,False,False,No AI mention
+1401564,"First Financial Northwest, Inc.",WA,"Renton, WA",1424889000.0,2019,2025,True,1.4,Renton,47.4809919798193,-122.206287012532,2025,Community (< $10 bn),True,False,False,AI (any)
+1657642,"Skyline Bankshares, Inc.",VA,"Floyd, VA",1293303000.0,2019,2026,True,1.3,Floyd,36.912211,-80.320364,2026,Community (< $10 bn),True,False,False,AI (any)
+880417,"CSB Bancorp, Inc.",OH,"Millersburg, OH",1292736000.0,2019,2026,False,1.3,Millersburg,40.5552930201196,-81.9169559711204,2026,Community (< $10 bn),False,False,False,No AI mention
+1649739,BayFirst Financial Corp.,FL,"St Petersburg, FL",1294269000.0,2022,2026,True,1.3,St Petersburg,27.77355075,-82.63862950000001,2026,Community (< $10 bn),True,False,False,AI (any)
+718413,COMMUNITY BANCORP /VT,VT,"Derby, VT",1287558946.0,2019,2026,False,1.3,Derby,44.9500010045944,-72.1638310198504,2026,Community (< $10 bn),False,False,False,No AI mention
+779227,STEELE BANCORP INC,PA,"Mifflinburg, PA",1261457000.0,2026,2026,True,1.3,Mifflinburg,40.924196965491,-77.030500628534,2026,Community (< $10 bn),True,False,False,AI (any)
+898171,UWHARRIE CAPITAL CORP,NC,"Albemarle, NC",1196345000.0,2019,2026,False,1.2,Albemarle,35.350721,-80.198086,2026,Community (< $10 bn),False,False,False,No AI mention
+717806,"FIRST US BANCSHARES, INC.",AL,"Birmingham, AL",1154785000.0,2019,2026,True,1.2,Birmingham,33.512809,-86.80514,2026,Community (< $10 bn),True,True,False,Generative AI
+1006830,CONSUMERS BANCORP INC /OH/,OH,"Minerva, OH",1212530000.0,2019,2026,False,1.2,Minerva,40.73079399624465,-81.10086850395585,2026,Community (< $10 bn),False,False,False,No AI mention
+1137547,UNITED SECURITY BANCSHARES,CA,"Fresno, CA",1248313000.0,2019,2026,True,1.2,Fresno,36.808365,-119.792301,2026,Community (< $10 bn),True,False,False,AI (any)
+1288855,"OptimumBank Holdings, Inc.",FL,"Fort Lauderdale, FL",1111678000.0,2019,2026,False,1.1,Fort Lauderdale,26.122436,-80.137237,2026,Community (< $10 bn),False,False,False,No AI mention
+1098146,PATRIOT NATIONAL BANCORP INC,CT,"Stamford, CT",1087840000.0,2019,2026,True,1.1,Stamford,41.05748,-73.538406,2026,Community (< $10 bn),True,False,True,Agentic AI
+1275101,BANK OF THE JAMES FINANCIAL GROUP INC,VA,"Lynchburg, VA",1039024000.0,2019,2026,True,1.0,Lynchburg,37.414658,-79.1439505,2026,Community (< $10 bn),True,False,False,AI (any)
+1856365,Finwise Bancorp,UT,"Murray, UT",977135000.0,2022,2026,True,1.0,Murray,40.649583,-111.877166,2026,Community (< $10 bn),True,True,False,Generative AI
+750574,"AUBURN NATIONAL BANCORPORATION, INC",AL,"Auburn, AL",1018797000.0,2019,2026,True,1.0,Auburn,32.6067929959888,-85.480178,2026,Community (< $10 bn),True,False,False,AI (any)
+1766526,"Tectonic Financial, Inc.",TX,"Dallas, TX",863380000.0,2020,2025,False,0.9,Dallas,32.860991,-96.80375,2025,Community (< $10 bn),False,False,False,No AI mention
+1163389,NEW PEOPLES BANKSHARES INC,VA,"Honaker, VA",909700000.0,2019,2026,True,0.9,Honaker,37.0159639963023,-81.9691280377885,2026,Community (< $10 bn),True,False,False,AI (any)
+731653,UNITED BANCORP INC /OH/,OH,"Martins Ferry, OH",857445000.0,2019,2026,True,0.9,Martins Ferry,40.096028,-80.723861,2026,Community (< $10 bn),True,False,False,AI (any)
+714712,JUNIATA VALLEY FINANCIAL CORP,PA,"Mifflintown, PA",895263000.0,2019,2026,True,0.9,Mifflintown,40.5701809984493,-77.39693,2026,Community (< $10 bn),True,False,False,AI (any)
+1290476,Village Bank & Trust Financial Corp.,VA,"Midlothian, VA",756165000.0,2019,2025,False,0.8,Midlothian,37.472348495912,-77.61143500881991,2025,Community (< $10 bn),False,False,False,No AI mention
+770460,PEOPLES FINANCIAL CORP /MS/,MS,"Biloxi, MS",727121000.0,2019,2026,False,0.7,Biloxi,30.3968615,-88.8889195,2026,Community (< $10 bn),False,False,False,No AI mention
+890066,GLEN BURNIE BANCORP,MD,"Glen Burnie, MD",358956000.0,2019,2025,False,0.4,Glen Burnie,39.1626240076323,-76.6259230098808,2025,Community (< $10 bn),False,False,False,No AI mention
+2072421,"Seneca Bancorp, Inc.",NY,"Baldwinsville, NY",312114000.0,2026,2026,True,0.3,Baldwinsville,43.159156219642,-76.333012458092,2026,Community (< $10 bn),True,False,False,AI (any)
